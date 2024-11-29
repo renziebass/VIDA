@@ -173,10 +173,10 @@
 
     <div class="row text-center">
       <div class="row">
-        <p class="col">Eyebrows Ting</p><p class="col text-danger">$180</p>
+        <p class="col">Eyebrows Tint</p><p class="col text-danger">$180</p>
       </div>
       <div class="row">
-        <p class="col">Eye Lash Ting</p><p class="col text-danger">$220</p>
+        <p class="col">Eye Lash Tint</p><p class="col text-danger">$220</p>
       </div>
     </div>
 
