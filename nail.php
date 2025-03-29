@@ -175,20 +175,20 @@
       
     <div class="row text-center mt-5">
     <p class="col fw-bold text-start">Spa Manicure</p>
-    <p class="col fw-bold text-end text-danger fs-5">$228</p>
+    <p class="col fw-bold text-end text-danger fs-5">$260</p>
     <p>- Includes Cutting nails, file, cuticle work, mini massage and a normal nail polish.</p>
     </div>
 
     <div class="row text-center mt-3">
     <p class="col fw-bold text-start">Spa Pedicure</p>
-    <p class="col fw-bold text-end text-danger fs-5">$328</p>
+    <p class="col fw-bold text-end text-danger fs-5">$340</p>
     <p>- Includes Cutting nails, file, cuticle work, scrub,
       removing of dead calluses and mini massage, regular polish.</p>
     </div>
 
     <div class="row text-center mt-3">
     <p class="col fw-bold text-start">Manicure and Pedicure set</p>
-    <p class="col fw-bold text-end text-danger fs-5">$508</p>
+    <p class="col fw-bold text-end text-danger fs-5">$580</p>
     </div>
 
     <div class="row text-center mt-3">
@@ -199,13 +199,13 @@
 
     <div class="row text-center mt-3">
     <p class="col fw-bold text-start">Express Pedicure</p>
-    <p class="col fw-bold text-end text-danger fs-5">$210</p>
+    <p class="col fw-bold text-end text-danger fs-5">$240</p>
     <p>- Includes a quick Cutting of nails, file and regular polish.</p>
     </div>
 
     <div class="row text-center mt-3">
     <p class="col fw-bold text-start">Ultimate Spa Manicure</p>
-    <p class="col fw-bold text-end text-danger fs-5">$388</p>
+    <p class="col fw-bold text-end text-danger fs-5">$410</p>
     <p>- Includes Cutting of Nails, file, cuticle work, paraffin wax, regular polish.
       Clients Choice of :15mins Foot Massage  or  Paraffin Wax</p>
     </div>
