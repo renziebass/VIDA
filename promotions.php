@@ -151,7 +151,11 @@
 
 <main class="container">
   <div class="p-4 mb-4 rounded text-body-emphasis" style="background-color: #EEE8D8;">
-
+  <div class="row">
+    <div class="col">
+        <img class="img-fluid" src="assets/img/promotion1.jpg" alt="">
+    </div>
+  </div>
   <div class="row">
     <div class="col-md-7 px-0 my-auto">
       <div class="card-body text-center">

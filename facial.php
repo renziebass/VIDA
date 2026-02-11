@@ -168,6 +168,42 @@
   <hr class="m-5">
 
     <div class="row text-center">
+    <h1>Hydra Facial</h1>
+    </div>
+
+    <div class="row text-center mt-5">
+    <p class="col fw-bold text-start">Cleanse + Glows in One Step <br><span class="text-muted">(75Mins)</span></p>
+    <p class="col fw-bold text-end text-danger fs-5">$1,000</p>
+    <p>- Our HydraFacial machine uses gentle suction to pull out dirt, oil,
+      and blackheads while at the same time pushing in hydrating serums.
+      It will give you fresh, clear pores and instantly radiant
+      skin without pain or downtime.
+    </p>
+    </div>
+
+     <div class="row text-center mt-5">
+    <p class="col fw-bold text-start">Anti Aging Exo Glow<br><span class="text-muted">(75Mins)</span></p>
+    <p class="col fw-bold text-end text-danger fs-5">$1,100</p>
+    <p>- An instant gentle  exfoliation suction (needle free ) that cleanses away
+      impurities.The facial design to tighten and hydrate your skin through our exoglow
+      serum using ultrasound that boosts and penetrates into your skin
+      The results refreshes and gives your skin back into life.
+    </p>
+    </div>
+
+    <div class="row text-center mt-5">
+    <p class="col fw-bold text-start">Gentlemen’s Facial<br><span class="text-muted">(60Mins)</span></p>
+    <p class="col fw-bold text-end text-danger fs-5">$880</p>
+    <p>- This facial is a way to balance your stressful daily routine due to
+      the busy urban life.t is suitable for dull and sensitive skin
+      and it helps to soothe and calm redness, and also protects the skin
+      from irritation.Our gentle suction machine  that deeply cleanse your pores,
+      storing your clear skin. The treatment heals and infuse Hydration and
+      collagen effects.
+    </p>
+    </div>
+
+    <div class="row text-center">
     <h1>Dermalogica</h1>
     </div>
       
@@ -208,6 +244,7 @@
       The result of healing process of mature & dull looking skin is to refresh,
       boost anti-oxidant and improves elasticity of the skin.</p>
     </div>
+    
     <hr class="m-3">
     <div class="row text-center mt-3">
     <p class="col fw-bold text-start">Add on Eye and Lip Treatment</p>
