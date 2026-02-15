@@ -134,7 +134,7 @@
         <a class="blog-header-logo text-body-emphasis text-decoration-none" href="#">VIDA Spa</a>
       </div>
       <div class="col-4 d-flex justify-content-end align-items-center">
-        <a class="btn btn-sm btn-danger fw-bold" onclick="btn_book()" href="#">Book Appoinment</a>
+       <a class="btn btn-sm btn-danger fw-bold" onclick="" href="https://www.fresha.com/book-now/vida-jusjczm9/all-offer?share=true&pId=1452338">Book Appoinment</a>
       </div>
     </div>
   </header>
